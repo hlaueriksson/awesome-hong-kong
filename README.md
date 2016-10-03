@@ -15,6 +15,7 @@
 
 - [Discover Hong Kong](http://www.discoverhongkong.com) - Official Travel Guide from the Hong Kong Tourism Board
 - [Wikitravel](http://wikitravel.org/en/Hong_Kong) - The Free Travel Guide
+- [Time Out Hong Kong](https://www.timeout.com/hong-kong) - Discover the best Hong Kong events, things to do, restaurants, shops and nightlife
 
 ## Food
 
