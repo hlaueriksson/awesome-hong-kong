@@ -13,27 +13,27 @@
 
 ## Travel Guides
 
-- [Discover Hong Kong](http://www.discoverhongkong.com) - Official Travel Guide from the Hong Kong Tourism Board
-- [Wikitravel](http://wikitravel.org/en/Hong_Kong) - The Free Travel Guide
-- [Time Out Hong Kong](https://www.timeout.com/hong-kong) - Discover the best Hong Kong events, things to do, restaurants, shops and nightlife
+- [Discover Hong Kong](http://www.discoverhongkong.com) - Official Travel Guide from the Hong Kong Tourism Board.
+- [Wikitravel](http://wikitravel.org/en/Hong_Kong) - The Free Travel Guide.
+- [Time Out Hong Kong](https://www.timeout.com/hong-kong) - Discover the best Hong Kong events, things to do, restaurants, shops and nightlife.
 
 ## Food
 
-- [OpenRice](http://www.openrice.com/en/hongkong) - Hong Kong Restaurants Guide Hong Kong Restaurant
+- [OpenRice](http://www.openrice.com/en/hongkong) - Hong Kong Restaurants Guide Hong Kong Restaurant.
 
 ## Apps
 
 ### Android
 
-- [OpenRice](https://play.google.com/store/apps/details?id=com.openrice.android) - Search, Food Trend, Offers, Table Booking and Meal Invitation are All-in-One!
-- [MTR Mobile](https://play.google.com/store/apps/details?id=com.mtr.mtrmobile) - Helps you plan your MTR trips
-- [KMB & LW](https://play.google.com/store/apps/details?id=com.mobilesoft.kmb.mobile) - Estimated bus arrival time, updates on bus services and the latest route information to help with journey planning.
+- [OpenRice](https://play.google.com/store/apps/details?id=com.openrice.android) - Search, Food Trend, Offers, Table Booking.
+- [MTR Mobile](https://play.google.com/store/apps/details?id=com.mtr.mtrmobile) - Helps you plan your MTR trips.
+- [KMB & LW](https://play.google.com/store/apps/details?id=com.mobilesoft.kmb.mobile) - Estimated bus arrival time.
 
 ### iOS
 
-- [OpenRice](https://itunes.apple.com/hk/app/openrice/id310663323) - Search, Food Trend, Offers, Table Booking and Meal Invitation are All-in-One!
-- [MTR Mobile](https://itunes.apple.com/hk/app/mtr-mobile/id369295276) - Helps you plan your MTR trips
-- [KMB & LW](https://itunes.apple.com/hk/app/kmb-lw/id424571905) - Estimated bus arrival time, updates on bus services and the latest route information to help with journey planning.
+- [OpenRice](https://itunes.apple.com/hk/app/openrice/id310663323) - Search, Food Trend, Offers, Table Booking.
+- [MTR Mobile](https://itunes.apple.com/hk/app/mtr-mobile/id369295276) - Helps you plan your MTR trips.
+- [KMB & LW](https://itunes.apple.com/hk/app/kmb-lw/id424571905) - Estimated bus arrival time.
 
 ## Podcasts
 
