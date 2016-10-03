@@ -7,8 +7,8 @@
 - [Travel Guides](#travel-guides)
 - [Food](#food)
 - [Apps](#apps)
-    - [Android](#android)
-    - [iOS](#ios)
+  - [Android](#android)
+  - [iOS](#ios)
 - [Podcasts](#podcasts)
 
 ## Travel Guides
