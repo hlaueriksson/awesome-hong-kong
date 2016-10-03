@@ -2,6 +2,8 @@
 
 > A curated list of useful resources related to Hong Kong.
 
+*Please read the [Contributing Guidelines](contributing.md) before contributing.*
+
 ## Contents
 
 - [Travel Guides](#travel-guides)
